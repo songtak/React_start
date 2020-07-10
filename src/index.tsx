@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 //import Counter from './oop/Counter';
-import HelloName from "./oop/HelloName";
+import HelloName from "./components/oop/HelloName";
 
 ReactDOM.render(
   <React.StrictMode>
